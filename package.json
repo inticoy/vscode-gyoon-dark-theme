@@ -5,7 +5,8 @@
   "icon": "images/dark.png",
   "repository": "https://github.com/inticoy/gyoon-dark-theme",
   "description": "Ultimate dark theme especially for c/c++ language, with green text color",
-  "version": "0.1.0",
+  "version": "0.1.1",
+  "license": "MIT",
   "engines": {
     "vscode": "^1.4.0"
   },
